@@ -18,5 +18,7 @@ print(name)
     }
 printe(name: "Artem")
 
+let age1 = 31
+
 
 }
