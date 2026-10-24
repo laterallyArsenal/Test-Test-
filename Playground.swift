@@ -13,9 +13,10 @@ let number = 1
 
 print(name)
 
-    func(){
-        
+    func printe(name:String){
+        print(name)
     }
+printe(name: "Artem")
 
 
 }
