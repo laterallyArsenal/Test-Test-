@@ -12,4 +12,10 @@ let number = 1
     }
 
 print(name)
+
+    func(){
+        
+    }
+
+
 }
