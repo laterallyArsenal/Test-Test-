@@ -21,6 +21,6 @@ printe(name: "Artem")
 let age1 = 31
 
 let ka = "Ha ha "
-
+print(ka)
 
 }
