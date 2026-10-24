@@ -20,5 +20,6 @@ printe(name: "Artem")
 
 let age1 = 31
 
+print("Hello World")
 
 }
