@@ -7,4 +7,6 @@ let name = 12
 let name2 = 11 
 
 let number = 1 
+print(name)
+
 }
