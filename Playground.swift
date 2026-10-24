@@ -6,5 +6,8 @@ import Playgrounds
 let name = 12
 let name2 = 11 
 
-let number = 1 
+let number = 1
+    for i in 1...10{
+        print(i)
+    }
 }
