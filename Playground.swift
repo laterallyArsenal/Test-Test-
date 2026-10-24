@@ -4,4 +4,5 @@ import Playgrounds
     print("Hello, Playground!")
 
 let name = 12
+let name2 = 11 
 }
